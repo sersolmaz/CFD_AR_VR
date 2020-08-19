@@ -9,7 +9,7 @@ The provided code processes steady-state and transient CFD simulation data from 
 
 The goal herewith is to provide a simple, modular, easy-to-implement and free-to-use data processor to utilize CFD results in AR/VR environments. The code provides samples of existing CFD datasets from OpenFOAM (state M1) and COMSOL (state M2). Minor costumizations might be required.
 
-## Prerequisities
+## Prerequisities and execution
 
 To execute the code, an Anaconda application with Spyder must be compiled with ParaView and Blender packages.
 
@@ -20,10 +20,10 @@ Input(s):
 - Input and output directories
 
 Output(s):
-- 3D metadata of processed CFD datasets (steady-state & transient)
-- Graph & scientific data in multimedia format (image, colormap, video, etc.)
-- Database storage of data before and after processing (text-based, CSV)
-- Data process analytics to assess processing approach (data size, period, format)
+- Visual representations of CFD results
+- Supporting multimedia files; colormap and graphs (image, video, etc.)
+- Analytic data
+- Data processing performance
 
 ## License
 Please see the file ./LICENSE for details.
