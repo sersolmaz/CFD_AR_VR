@@ -11,6 +11,6 @@ To execute the code, you must build an Anaconda application with ParaView and Bl
 Please see the file ./LICENSE for details
 
 ## Contact
-Serkan Solmaz (serkan.solmaz@kuleuven.be)
+Serkan Solmaz (https://www.kuleuven.be/wieiswie/en/person/00127798)
 * Department of Chemical Engineering, KU Leuven, Celestijnenlaan 200F, B-3001 Leuven, Belgium
 
