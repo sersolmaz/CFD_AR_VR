@@ -1,13 +1,13 @@
 # CFD with AR/VR 
 **Multiplatform processing of CFD simulations with AR/VR**
 
-The provided code processes steady-state and transient CFD simulation data from multiple solver (e.g. OpenFOAM, Ansys Fluent and COMSOL) to integrate extract-based CFD results in cross-platform development environments such as game engines. It creates a bridge among multiple platforms to enable one-way coupled data processing between CFD dataset and game engine. It is written in Python using ParaView and Blender APIs. The main script comprises following part in sequance:
+The provided code processes steady-state and transient CFD simulation data from multiple solvers (e.g. OpenFOAM, Ansys Fluent and COMSOL) to integrate extract-based CFD results in cross-platform development environments such as game engines. It creates a bridge among multiple platforms to enable one-way coupled data processing between CFD dataset and game engine. It is written in Python using ParaView and Blender APIs. The main script comprises the following part in sequence:
 - Post- and data processing of CFD dataset with ParaView
 - Data processing with Blender
 - Data import & update in Unity game engine
-- Data processing processing for assessment
+- Data processing performance for assessment
 
-The goal herewith is to provide a simple, modular, easy-to-implement and free-to-use data processor to utilize CFD results in AR/VR environments. The code provides samples of existing CFD datasets from OpenFOAM (state M1) and COMSOL (state M2). Minor costumizations might be required.
+The goal herewith is to provide a simple, modular, easy-to-implement and free-to-use data processor to utilize CFD results in AR/VR environments. The code provides samples of existing CFD datasets from OpenFOAM (state M1) and COMSOL (state M2). Minor customizations might be required.
 
 ## Prerequisities and execution
 
