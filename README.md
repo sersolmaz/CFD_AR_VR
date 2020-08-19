@@ -10,7 +10,9 @@ The provided code processes steady-state and transient CFD simulation data from 
 
 The goal herewith is to provide a simple, easy-to-implement and free-to-use data processor to utilize CFD results in AR/VR environments. The code mostly provides a sample of existing CFD datasets. Minor costumizations might be required.
 
-To execute the code, you must build an Anaconda application with ParaView and Blender.
+## Prerequisities
+
+To execute the code, an Anaconda application must be built with ParaView and Blender packages.
 
 ## License
 Please see the file ./LICENSE for details
