@@ -9,6 +9,5 @@ To execute the code, you must build an Anaconda application with ParaView and Bl
 
 # Contact
 Serkan Solmaz (serkan.solmaz@kuleuven.be)
-
-Department of Chemical Engineering, KU Leuven, Celestijnenlaan 200F, B-3001 Leuven, Belgium
+* Department of Chemical Engineering, KU Leuven, Celestijnenlaan 200F, B-3001 Leuven, Belgium
 
