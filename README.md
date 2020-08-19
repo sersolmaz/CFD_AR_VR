@@ -5,4 +5,9 @@ The provided codes process CFD simulation data from multiple solver (e.g. OpenFO
 
 The goal herewith is to provide a simple, easy-to-implement and free-to-use data processor to utilize CFD results in AR/VR environments. The code mostly provides a sample of existing CFD datasets. Minor costumizations might be required.
 
-To execute the code, you must build an Anaconda application with ParaView and Blender. Details are given in README.
+To execute the code, you must build an Anaconda application with ParaView and Blender.
+
+# Contact
+Serkan Solmaz (serkan.solmaz@kuleuven.be)
+Department of Chemical Engineering, KU Leuven, Celestijnenlaan 200F, B-3001 Leuven, Belgium
+
