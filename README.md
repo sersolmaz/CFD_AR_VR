@@ -7,10 +7,10 @@ The goal herewith is to provide a simple, easy-to-implement and free-to-use data
 
 To execute the code, you must build an Anaconda application with ParaView and Blender.
 
-### License
+## License
 Please see the file ./LICENSE for details
 
-### Contact
+## Contact
 Serkan Solmaz (serkan.solmaz@kuleuven.be)
 * Department of Chemical Engineering, KU Leuven, Celestijnenlaan 200F, B-3001 Leuven, Belgium
 
