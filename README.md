@@ -1,4 +1,5 @@
-# CFD_AR_VR: Multiplatform processing of CFD simulations with AR/VR
+# CFD with AR/VR
+Multiplatform processing of CFD simulations with AR/VR
 
 The provided code processes CFD simulation data from multiple solver to integrate extract-based results in cross-platform development environments such as game engines. It is written in Python. The goal herewith is to provide a simple, easy-to-implement and free-to-use data processor to utilize CFD results in AR/VR environments.
 
