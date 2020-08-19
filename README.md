@@ -12,7 +12,7 @@ The goal herewith is to provide a simple, easy-to-implement and free-to-use data
 
 ## Prerequisities
 
-To execute the code, an Anaconda application must be built with ParaView and Blender packages.
+To execute the code, an Anaconda application must be compiled with ParaView and Blender packages.
 
 ## License
 Please see the file ./LICENSE for details
