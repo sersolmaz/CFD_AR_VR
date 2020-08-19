@@ -3,7 +3,7 @@
 
 The provided code processes steady-state and transient CFD simulation data from multiple solver (e.g. OpenFOAM, Ansys Fluent and COMSOL) to integrate extract-based CFD results in cross-platform development environments such as game engines. It creates a bridge among multiple platforms to enable one-way coupled data processing between CFD dataset and game engine. It is written in Python using ParaView and Blender APIs. The main script comprises following part in sequance:
 
-- Post- and data-processing of CFD dataset with ParaView
+- Post- and data processing of CFD dataset with ParaView
 - Data processing with Blender
 - Data import & update in Unity game engine
 - Data processing processing for assessment
