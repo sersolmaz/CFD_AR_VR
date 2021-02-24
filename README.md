@@ -1,5 +1,5 @@
-# Multiprosim - CFD with AR/VR 
-**Multiprosim: Multiplatform processing of CFD simulations with AR/VR**
+# CFD with AR/VR 
+**Multiplatform processing of CFD simulations with AR/VR**
 
 The provided code processes steady-state and transient CFD simulation data from multiple solvers (e.g. OpenFOAM, Ansys Fluent and COMSOL) to integrate extract-based CFD results in cross-platform development environments such as game engines. It creates a bridge among multiple platforms to enable one-way coupled data processing between CFD dataset and game engine. It is written in Python using ParaView and Blender APIs. The main script comprises the following part in sequence:
 - Post- and data processing of CFD dataset with ParaView
