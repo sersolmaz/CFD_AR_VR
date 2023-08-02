@@ -1,7 +1,11 @@
 # CFD with AR/VR 
 **Multiplatform processing of CFD simulations with AR/VR**
 
+
+----------------
 **UPDATE (02.08.2023): [CFD_AR_VR](https://github.com/sersolmaz/CFD_AR_VR/tree/master) is an exploratory tool to examine different data processing pipelines between CFD solvers and game engines. It fundamentally focuses on data formats, processing performance and interoperability. Based on this preliminary work, a toolkit is developed and now available providing robust modules to integrate CFD data into game engines at [Acrossim](https://github.com/sersolmaz/Acrossim).**
+----------------
+
 
 The provided code processes steady-state and transient CFD simulation data from multiple solvers (e.g. OpenFOAM, Ansys Fluent and COMSOL) to integrate extract-based CFD results in cross-platform development environments such as game engines. It creates a bridge among multiple platforms to enable one-way coupled data processing between CFD dataset and game engine. It is written in Python using ParaView and Blender APIs. The main script comprises the following part in sequence:
 - Post- and data processing of CFD dataset with ParaView
